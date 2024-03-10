@@ -4,7 +4,9 @@ ALGORITHM:
 
 Function Definitions:
 button_click(item): Appends the clicked button's text to the expression and updates the display.
+
 button_equal(): Evaluates the final expression and displays the result.
+
 button_clear(): Clears the expression and updates the display.
 
 Initialize Tkinter:
